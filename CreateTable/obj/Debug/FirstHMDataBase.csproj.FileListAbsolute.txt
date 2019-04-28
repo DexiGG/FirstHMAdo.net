@@ -1,0 +1,8 @@
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\bin\Debug\Gruppa.mdf
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\bin\Debug\Gruppa_log.ldf
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\bin\Debug\CreateTable.exe.config
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\bin\Debug\CreateTable.exe
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\bin\Debug\CreateTable.pdb
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\obj\Debug\FirstHMDataBase.csproj.CoreCompileInputs.cache
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\obj\Debug\CreateTable.exe
+C:\Users\invok\Downloads\TableCreation-master\TableCreation-master\CreateTable\obj\Debug\CreateTable.pdb
